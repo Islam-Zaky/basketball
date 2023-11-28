@@ -1,16 +1,16 @@
-# basketball
+# Basketball
 
-A new Flutter project.
+- Flutter APP save points of teams.
 
-## Getting Started
+## Learned
 
-This project is a starting point for a Flutter application.
+- StatefulWidget.
+- ElevatedButton.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
+<img width="174" alt="basketball 0" src="https://github.com/Islam-Zaky/basketball/assets/49339964/a472a207-ed1b-45fa-8745-ffb4543378f1">
+<img width="181" alt="basketball 1" src="https://github.com/Islam-Zaky/basketball/assets/49339964/a9897ff7-03fc-49b0-ad62-83ec9344ff78">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Demo
+https://github.com/Islam-Zaky/basketball/assets/49339964/81fe5a3d-1783-404d-8e4e-6dd5c861bda2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
